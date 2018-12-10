@@ -4,7 +4,8 @@ The goal of this repository is to create a collection with examples of how to bu
 
 The build process will thus collect all required dependencies, apply patches and deploy the code to your repository.
 
-NOTE: This is still a WIP :) feel free to help out!
+> **NOTE**: This is still a Work In Progress!
+> If you want to help out contributing to this collection, please create issues and pull requests with improvements.
 
 ## Outline
 
