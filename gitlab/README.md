@@ -11,4 +11,4 @@ To ensure our pipelines has read/write access to our GitLab repository, we need 
 To create a Key Pair we will be using `ssh-keygen`. You can create a keypair using the following command `~ $ ssh-keygen -f GitLabCi`. Make sure to specify a new file name so you don't overwrite your main key-pair!
 
 - Upload the key under: `Project Settings -> Repository -> Deploy Keys` make sure to tick the checbox for write access if needed.
-- Create an environment variable for the private key: `Project Settings -> CI / CD -> Variables`
+- Create an environment variable for the private key and password under: `Project Settings -> CI / CD -> Variables`
