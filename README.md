@@ -35,7 +35,7 @@ The items mentioned above are just a few of the many cool thigns you could do to
 Repository | Status
 -----------|-------
 [Bitbucket][6] | :x:
-[GitLab][7] | :x:
+[GitLab][7] | :soon:
 [GitHub][8] | :x:
 
 ## Basic pipeline steps
