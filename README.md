@@ -9,7 +9,7 @@ The build process will thus collect all required dependencies, apply patches and
 
 ## Outline
 
-1. [General information][#basic-build-steps]
+1. [General information](#basic-build-steps)
 
 ## General information
 
