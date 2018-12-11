@@ -9,7 +9,7 @@ The build process will thus collect all required dependencies, apply patches and
 
 ## Outline
 
--[General information](#general-information)
+- [General information](#general-information)
 
 ## General information
 
